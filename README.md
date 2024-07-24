@@ -7,8 +7,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/the-meta-lang/pkgstack.com">
-    <img src="./public/logo-modern-dark.svg" alt="Logo" width="300" height="300">
+  <a href="https://github.com/Letsmoe/pkgstack.com">
+    <img src="./public/stack/logo-dark.svg" alt="Logo" width="300" height="300">
   </a>
 
 <h3 align="center"><a href="https://pkgstack.com">pkgstack.com</a></h3>
@@ -18,9 +18,9 @@
     <br />
     <a href="https://pkgstack.com/docs"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/the-meta-lang/pkgstack.com/issues">Report Bug</a>
+    <a href="https://github.com/Letsmoe/pkgstack.com/issues">Report Bug</a>
     ·
-    <a href="https://github.com/the-meta-lang/pkgstack.com/issues">Request Feature</a>
+    <a href="https://github.com/Letsmoe/pkgstack.com/issues">Request Feature</a>
   </p>
 </div>
 
@@ -29,13 +29,9 @@
 ## Roadmap
 
 - [ ] Documentation Completed
-  - [ ] METAx
-  - [ ] METALS
-  - [ ] META
-  - [ ] META-VM
 - [ ] Playground finished
 
-See the [open issues](https://github.com/the-meta-lang/pkgstack.com/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Letsmoe/pkgstack.com/issues) for a full list of proposed features (and known issues).
 
 ## Contributing
 
@@ -56,13 +52,13 @@ Thank you for contributing! Have fun!
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/the-meta-lang/pkgstack.com.svg?style=for-the-badge
-[contributors-url]: https://github.com/the-meta-lang/pkgstack.com/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/the-meta-lang/pkgstack.com.svg?style=for-the-badge
-[forks-url]: https://github.com/the-meta-lang/pkgstack.com/network/members
-[stars-shield]: https://img.shields.io/github/stars/the-meta-lang/pkgstack.com.svg?style=for-the-badge
-[stars-url]: https://github.com/the-meta-lang/pkgstack.com/stargazers
-[issues-shield]: https://img.shields.io/github/issues/the-meta-lang/pkgstack.com.svg?style=for-the-badge
-[issues-url]: https://github.com/the-meta-lang/pkgstack.com/issues
-[license-shield]: https://img.shields.io/github/license/the-meta-lang/pkgstack.com.svg?style=for-the-badge
-[license-url]: https://github.com/the-meta-lang/pkgstack.com/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Letsmoe/pkgstack.com.svg?style=for-the-badge
+[contributors-url]: https://github.com/Letsmoe/pkgstack.com/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Letsmoe/pkgstack.com.svg?style=for-the-badge
+[forks-url]: https://github.com/Letsmoe/pkgstack.com/network/members
+[stars-shield]: https://img.shields.io/github/stars/Letsmoe/pkgstack.com.svg?style=for-the-badge
+[stars-url]: https://github.com/Letsmoe/pkgstack.com/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Letsmoe/pkgstack.com.svg?style=for-the-badge
+[issues-url]: https://github.com/Letsmoe/pkgstack.com/issues
+[license-shield]: https://img.shields.io/github/license/Letsmoe/pkgstack.com.svg?style=for-the-badge
+[license-url]: https://github.com/Letsmoe/pkgstack.com/blob/master/LICENSE.txt
